@@ -2,9 +2,14 @@
 #include <time.h>
 #include <stdio.h>
 
-/** betty style doc for function main goes there
-*main condition valeur 0  
-*/
+/**
+ *main -entry point
+ *
+ * Descritpion: t'eCris ce que tu veux on s'enfout
+ * azy c'est bon
+ * Return: always O
+ */
+
 int main(void)
 {
 	int n;
